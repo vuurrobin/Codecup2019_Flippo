@@ -1,0 +1,1 @@
+g++ -Wall -pipe -O2 -g --std=c++17 -lm -o flippo main.cpp
